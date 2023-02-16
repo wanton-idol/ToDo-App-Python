@@ -1,5 +1,5 @@
 # TODO APP with Flask
-It's a TO-DO App developed ssing Python Flask and MySQL Database.
+It's a TO-DO App developed using Python Flask and MySQL Database.
 
 ## :computer: Tech used 
 
@@ -15,7 +15,10 @@ It's a TO-DO App developed ssing Python Flask and MySQL Database.
 $ mkdir ToDo
 $ cd ToDo
 ```
-2. Clone this repository `git clone https://github.com/wanton-idol/ToDo-App-Python.git`
+2. Clone this repository
+```console
+$ git clone https://github.com/wanton-idol/ToDo-App-Python.git
+```
 3. Create a Virtual Environment and Activate it.
 ```console
 $ py -3 -m venv venv
